@@ -65,4 +65,4 @@ for entire places.
 creation of a comprehensive report that presents listing prices, guest ratings, 
 and visitor trends for multiple cities, with a particular focus on assessing 
 changes in visitor trends in 2020 in contrast to earlier years.
-
+![Screenshot 2024-02-20 220518](https://github.com/Parma14/Air-bnb-PowerBI-project/assets/152804829/78907fa1-d7ec-4dab-9e97-0888a74a6f29)
