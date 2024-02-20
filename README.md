@@ -55,11 +55,12 @@ Snap of new calculated column ,
 
                                                                
 
-•(6) Property Type Price Analysis: The task involves the creation of a visual tree 
+•(6) Property Type Price Analysis: The task involves the creation of a visual 
 map that displays average prices for various room and property types with 
 specific attention given to the property type associated with the highest prices 
 for entire places. 
-• Crafting a Comprehensive City Insights Report: This objective entails the 
+
+•(7) Crafting a Comprehensive City Insights Report: This objective entails the 
 creation of a comprehensive report that presents listing prices, guest ratings, 
 and visitor trends for multiple cities, with a particular focus on assessing 
 changes in visitor trends in 2020 in contrast to earlier years.
