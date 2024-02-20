@@ -58,7 +58,8 @@ Snap of new calculated column ,
 •(6) Property Type Price Analysis: The task involves the creation of a visual 
 map that displays average prices for various room and property types with 
 specific attention given to the property type associated with the highest prices 
-for entire places. 
+for entire places.
+![Screenshot 2024-02-20 220642](https://github.com/Parma14/Air-bnb-PowerBI-project/assets/152804829/57becf4f-d4bd-4c35-ad07-74206d02496c)
 
 •(7) Crafting a Comprehensive City Insights Report: This objective entails the 
 creation of a comprehensive report that presents listing prices, guest ratings, 
