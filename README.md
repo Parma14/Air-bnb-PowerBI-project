@@ -51,7 +51,7 @@ ten years of hosting expertise.
 ## In 2013 host of 11 years count is 361 and 10 years count 924
 ## In 2012 host of 11 years count is 506 and 12 years count 175
 Snap of new calculated column ,
-
+![Screenshot 2024-02-20 220708](https://github.com/Parma14/Air-bnb-PowerBI-project/assets/152804829/ec480c7e-d29f-4544-a478-48052ebf932c)
 
                                                                
 
